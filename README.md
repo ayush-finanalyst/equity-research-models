@@ -1,0 +1,20 @@
+# Equity Research Models
+**Ayush Kumar | MBA Fintech, PIBM | ayushbit199@gmail.com**
+
+Sell-side financial models built during internship at Opulence Business Solutions, Ahmedabad.
+
+## Files in this Repository
+
+| File | Description |
+|------|-------------|
+| `Tata Valuation.xlsx` | DCF Valuation — Tata Steel (7-yr projection, WACC 17.7%, 10% CAGR) |
+| `WACC.xlsx` | WACC via CAPM — Beta R²=0.261, Cost of Equity 18.4%, post-tax Kd 6.6% |
+| `TAMO FS Analysis.xlsx` | 3-Statement Model — Tata Motors (10-yr, EBITDA swing analysis) |
+| `Relative Valuation.xlsx` | Comparable Company Analysis — 10 pharma peers, EV/EBITDA & P/E |
+| `ITC Company Profile excel.xlsx` | Regression Forecasting — ITC revenue model, ROE 21.9% to 49.6% |
+| `VAR.xlsx` | VaR & Monte Carlo Simulation — Tata Elxsi, 95% & 99% CI tail risk |
+| `Valuation Practise.xlsx` | Practice valuation workbook — ratio analysis & common size |
+| `Company Valuation.pdf` | Equity research report with buy/sell/hold recommendations |
+
+## Skills Demonstrated
+DCF Valuation
